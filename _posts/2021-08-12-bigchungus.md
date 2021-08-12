@@ -1,6 +1,7 @@
 ---
 title: "meme lord"
 author: "Ai Van"
+tag:  ["funny", "meme", "haha"]
 ---
 Hello, I am Big, Big Chungus. 
 
